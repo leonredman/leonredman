@@ -1,19 +1,19 @@
-### Hey there 👋🏽 I'm Leon
+### Hey 👋🏽 I'm Leon — Welcome to MY GitHub Stash!
 
-I'm a software engineer based in Phoenix Arizona, and passionate about crafting digital experiences. 
+Thanks for stopping buy! This is my little corner of the web, filled with code bits and pieces that I've created while tinkering and studying how to communicate with computers and tell them what to do in a weird multicolored text editor. I'm a software engineering techie hanging out in Phoenix, AZ, always up for learning something new, solving problems, and generally geeking out.
 
-- Check out my [website](https://www.leonredman.com/) to learn more about me.
-- Explore my [blog](https://leonredman.com/blog/) where I share insights and learnings about my journey to become a better developer.
+- Check out my [portfolio site](https://www.leonredman.com/) to learn more about me.
+- Explore my [blog](https://leonredman.com/blog/) where I share insights and learnings on my journey to become a better developer.
 - Currently finishing my last semester towards my bachelors in software engineering.
 
  
 ## 📦 Toolbox
 
-**Frontend Development:** `React` `Next.js` `TypeScript` `Semantic-UI` `Storybook`
+**Frontend Development:** `Javascript` `React JS` `Storybook` `Semantic-UI` 
  
 **Version Control:** `Git` `GitLab`
 
-**Backend Development:** `Java Spring` `Node/Express` `PHP` `SQL` `Docker`
+**Backend Development:** `Java Spring` `Node/Express` `Next JS` `PHP` `SQL` `Docker` `AWS`
 
 **Testing:** `Jest` `Cypress` `JUnit` `Postman`
 
@@ -21,9 +21,8 @@ I'm a software engineer based in Phoenix Arizona, and passionate about crafting 
  
 ## ✨ Fun Facts 
 
-- I might be weird cause I really like Java.
-- Since I was a kid, I have been raising pet snakes.
-- I was a graphic artist for Harley Davidson before the code bug bit me.
+- I like Python and raise pythons...so random!
+- I was a graphic artist for Harley Davidson before the code bug took over my life!
 
 ## 📫 Contact
 
