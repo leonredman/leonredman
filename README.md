@@ -1,6 +1,6 @@
 ### Hey 👋🏽 I'm Leon — Welcome to MY GitHub Stash!
 
-Thanks for stopping buy! This is my little corner of the web, filled with code bits and pieces that I've created while communicating with computers, telling them what to do in a weird multicolored text editor. I'm a software engineering techie hanging out in Phoenix, AZ, always up for learning something new, solving problems, and generally geeking out.
+Thanks for stopping buy! This is my little corner of the web, filled with code, bits and pieces that I've created while communicating with computers, telling them what to do in a weird multicolored text editor. I'm a software engineering techie hanging out in Phoenix, AZ, always up for learning something new, solving problems, and generally geeking out.
 
 - Check out my [portfolio site](https://www.leonredman.com/) to learn more about me.
 - Explore my [blog](https://leonredman.com/blog/) where I share insights and learnings on my journey to become a better developer.
