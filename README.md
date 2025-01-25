@@ -1,10 +1,10 @@
 ### Hey 👋🏽 I'm Leon — Welcome to My GitHub!
 
-Thanks for stopping buy! This is my little corner of the web, filled with code, bits and pieces that I've created while telling a computer what to do in a weird multicolored text editor. I'm a software engineering techie hanging out in Phoenix, AZ, always up for learning something new, solving problems, and generally geeking out.
+Thanks for stopping buy! This is my little corner of the web, filled with code, bits and bobs that I've created while typing computer instructions in a weird multicolored text editor. I'm a software engineering techie hanging out in Phoenix, AZ. I'm always up for learning something new, solving problems, and generally geeking out.
 
 - Check out my [portfolio site](https://www.leonredman.com/) to learn more about me.
 - Explore my [blog](https://leonredman.com/blog/) where I share insights and learnings on my journey to become a better developer.
-- Currently finishing my last semester towards my bachelors in software engineering.
+- Currently finishing my last semester (1/2025) towards my bachelors in software engineering.
 
  
 ## 📦 Toolbox
