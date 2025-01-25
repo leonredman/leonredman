@@ -4,7 +4,7 @@ Thanks for stopping buy! This is my little corner of the web, filled with code, 
 
 - Check out my [portfolio site](https://www.leonredman.com/) to learn more about me.
 - Explore my [blog](https://leonredman.com/blog/) where I share insights and learnings on my journey to become a better developer.
-- Currently finishing my last semester (1/2025) towards my bachelors in software engineering.
+- Currently finishing my last semester (1/2025), towards my bachelors in software engineering.
 
  
 ## 📦 Toolbox
