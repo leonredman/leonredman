@@ -1,4 +1,4 @@
-### Hey 👋🏽 I'm Leon — Welcome to MY GitHub!
+### Hey 👋🏽 I'm Leon — Welcome to My GitHub!
 
 Thanks for stopping buy! This is my little corner of the web, filled with code, bits and pieces that I've created while telling a computer what to do in a weird multicolored text editor. I'm a software engineering techie hanging out in Phoenix, AZ, always up for learning something new, solving problems, and generally geeking out.
 
