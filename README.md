@@ -7,7 +7,7 @@ Thanks for stopping buy! This is my little corner of the web, filled with code, 
 - Graduated 4/2025 Bachelors of Science, Software Engineering.
 
  
-## 📦 Toolbox
+## Toolbox
 
 **Frontend Development:** `Javascript` `React JS` `Storybook` `Semantic-UI` 
  
@@ -19,12 +19,12 @@ Thanks for stopping buy! This is my little corner of the web, filled with code, 
 
 **Others:** `SiteCore` `Contentful` `Wordpress` `SalesForce` `Scrum` `Confluence` `Jira`
  
-## ✨ Fun Facts 
+## Fun Facts 
 
 - I like Python and raise pythons...so random!
 - I was a graphic artist for Harley Davidson before the code bug took over my life!
 
-## 📫 Contact
+## Contact
 
  For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/leonredman/). 
  
